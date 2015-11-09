@@ -1,4 +1,4 @@
--- Helper Class Main Tab
+-- HelperClass Main Tab
 
 -- Created by: Mr Coxall
 -- Created on: Nov 2013
@@ -64,7 +64,7 @@ function touched(touch)
         -- before doing a command, or the player will
         -- get anoying warnings!
         if (gamecenter.enabled() == true) then
-            gamecenter.submitAchievement("grp.FinishedGame", 100)
+            gamecenter.showLeaderboards()
         end
     end    
 end
