@@ -1,4 +1,4 @@
 # Codea-HelperClass
 
-Here is the git link:
+Here is the SSH clone URL:
 git@github.com:MotherTeresaHS/Codea-HelperClass.git
